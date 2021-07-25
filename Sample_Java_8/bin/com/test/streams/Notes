@@ -1,0 +1,7 @@
+Stream() && Parallel Stream()
+-----------------------------
+-> In stream it will process or request the element in sequentially
+-> In Parallel Stream will process or request the element in parallely so that performace also will increase.
+-> when we really care about the performance then we can go for using the parrallel stream.
+-> so in parallel stream it uses the multiple cores of the processor.
+-> parallel stream is taking the less time when compared to the stream.
