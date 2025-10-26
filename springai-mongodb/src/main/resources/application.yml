@@ -1,0 +1,20 @@
+spring:
+  application:
+    name:springai-mongodb
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/springai
+  ai:
+    mcp:
+      server:
+        type: SYNC
+        stdio: true
+        name: springai-mongodb
+        version: 1.0.0
+  main:
+    web-application-type: none
+    banner-mode: off
+
+logging:
+  pattern:
+    console:
