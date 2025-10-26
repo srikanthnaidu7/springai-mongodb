@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "springai-mongodb": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/naidusrikanth/Documents/Work/WS/springai-mongodb/target/springai-mongodb-mcp-server.jar"
+      ]
+    }
+  }
+}
