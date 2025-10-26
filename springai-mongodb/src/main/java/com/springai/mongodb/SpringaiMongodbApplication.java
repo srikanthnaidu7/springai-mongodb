@@ -11,7 +11,7 @@ import java.util.List;
 
 @SpringBootApplication
 public class SpringaiMongodbApplication {
-
+//Test
 	public static void main(String[] args) {
 		SpringApplication.run(SpringaiMongodbApplication.class, args);
 	}
